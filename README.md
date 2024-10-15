@@ -1,4 +1,4 @@
-# Wrangle Data and Visualization
+# Wrangle Data and Visualization of Dogs pictures posted on twitter
 
 ## Table of Contents
 - [Project Description](#project-description)
